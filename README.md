@@ -3,7 +3,9 @@
 ### Version:
 16.0.16327.20214
 
-### Instalacion:
-1) Ejecutar "Install.bat"
+#### Instalacion:
+Ejecutar "Install.bat"
 
-### Link:
+:exclamation: **Atención**: Despues de un intalacion limpia de windows
+
+#### Link:
