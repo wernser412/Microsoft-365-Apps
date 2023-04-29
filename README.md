@@ -1,4 +1,4 @@
-# Office 365
+# Microsoft 365 Apps
 
 ### Version:
 16.0.16327.20214
