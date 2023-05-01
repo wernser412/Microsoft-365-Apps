@@ -12,3 +12,4 @@ Ejecutar "Install.bat"
 :exclamation: **Atención**: Despues de un intalacion limpia de windows
 
 #### Link:
+https://drive.google.com/file/d/1-CHF2E-kImwyAEmgGISt7Oa420187NOe/view?usp=sharing
