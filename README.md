@@ -6,6 +6,9 @@
 ### Idioma
 Es-es (Español)
 
+### Versión del paquete
+x64
+
 #### Instalacion:
 Ejecutar "Install.bat"
 
