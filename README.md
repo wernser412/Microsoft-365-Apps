@@ -1,13 +1,17 @@
+# Microsoft 2024 (14/01/2024)
+
+### Version:
+16.0.17231.20084 (Es-es) x64
+
+#### Link:
+https://drive.google.com/file/d/1bfr-wA5NouZ01dDJFPJ4apjPthUTgfSd/view?usp=sharing
+
+
 # Microsoft 365 Apps (17/11/2023)
 
 ### Version:
-16.0.16924.20150
+16.0.16924.20150 (Es-es) x64
 
-### Idioma
-Es-es (Español)
-
-### Versión del paquete
-x64
 
 #### Instalacion:
 Ejecutar "Install.bat"
