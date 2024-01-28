@@ -1,10 +1,10 @@
-# Microsoft 2024 (14/01/2024)
+# Microsoft 2024 (28/01/2024)
 
 ### Version:
-16.0.17231.20084 (Es-es) x64
+16.0.17325.20000 (Es-es) x64
 
 #### Link:
-https://drive.google.com/file/d/1bfr-wA5NouZ01dDJFPJ4apjPthUTgfSd/view?usp=sharing
+https://drive.google.com/file/d/1JJYskTPytpWkYguCC3bLsWUhJ9oiwMcZ/view?usp=sharing
 
 
 # Microsoft 365 Apps (17/11/2023)
