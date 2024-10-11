@@ -1,10 +1,9 @@
-# Microsoft 365 Apps
+# Microsoft 365 (Office)
 
 **Última Actualización:** 10 de octubre de 2024
 
 ### Version:
 16.0.18025.20140 (Es-es) x64
-
 
 #### Instalacion:
 Ejecutar "Install.bat"
