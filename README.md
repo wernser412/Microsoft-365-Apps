@@ -14,4 +14,4 @@ Ejecutar "Install.bat"
 #### Link:
 https://drive.google.com/file/d/1Ui5vnx9HRcYD4UYD0X4FfITumU0D6ca_/view?usp=sharing
 
-# <img src="https://github.com/wernser412/Microsoft-365-Apps/blob/main/M365.jpg">
+<img src="M365.png" alt="Logo de mi proyecto" width="300" />
