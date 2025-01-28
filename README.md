@@ -1,6 +1,6 @@
-# Microsoft Office 2016-2024 Retail Channel y Microsoft Office 365 Apps (3.18 GB)
+# Microsoft Office 2016-2024 Retail Channel y Microsoft Office 365 Apps (5.6 GB)
 
-**Última Actualización:** 22 de diciembre de 2024
+**Última Actualización:** 27 de enero de 2025
 
 ### - Version:
 16.0.18324.20190 (Es-es) x64
