@@ -3,7 +3,7 @@
 **Última Actualización:** 27 de enero de 2025
 
 ### - Version:
-16.0.18324.20190 (Es-es) x64
+16.0.18324.20190 (Es-es) x86-x64
 
 ### - Instalacion:
 Ejecutar "Install.bat"
