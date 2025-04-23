@@ -1,6 +1,6 @@
 # Microsoft Office 365 Apps 16.0.18623.20178 (2.79 GB)
 
-**Última Actualización:** 27 de enero de 2025
+**Última Actualización:** 22 de abril de 2025
 
 ### - Version:
 16.0.18623.20178 (Es-es) x64
