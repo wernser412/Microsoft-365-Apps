@@ -1,9 +1,9 @@
-# Microsoft Office 365 Apps 16.0.18730.20142(3.02 GB)
+# Microsoft Office 365 Apps 16.0.18730.20168 (2.89 GB)
 
-**Última Actualización:** 08 de mayo de 2025
+**Última Actualización:** 15 de mayo de 2025
 
 ### - Version:
-16.0.18730.20142 (Es-es) x64
+16.0.18730.20168 (Es-es) x64
 
 ### - Instalacion:
 Ejecutar "Install.bat"
@@ -11,7 +11,7 @@ Ejecutar "Install.bat"
 :exclamation: **Atención**: Despues de un intalacion limpia de windows
 
 ### - Link:
-https://mega.nz/file/UYdHXKJK#9fhROKQHHlJY3z6D1HhVOLN34807-1K5021BtQIZVi8
+https://mega.nz/file/wNsyTLqA#F4M8McW943HI0zDDPc5jL5CuXtV5Oi6RgPtsHaQczlQ
 
 ### - Contenido:
 
