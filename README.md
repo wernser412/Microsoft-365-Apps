@@ -12,7 +12,3 @@ Ejecutar "Install.bat"
 
 ### - Link:
 https://mega.nz/file/wNsyTLqA#F4M8McW943HI0zDDPc5jL5CuXtV5Oi6RgPtsHaQczlQ
-
-### - Contenido:
-
-Microsoft Office 365 Apps for Enterprise (Retail)
